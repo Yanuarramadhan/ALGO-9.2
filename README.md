@@ -1,0 +1,2 @@
+# ALGO-9.2
+CONTOH 2
